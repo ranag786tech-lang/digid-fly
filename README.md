@@ -10,9 +10,9 @@
 
 ## 🎮 Play Now
 
-🔗 **[Play DIGID FLY](https://YOUR-USERNAME.github.io/digid-fly)**
+🔗 **[Play DIGID FLY](https://ranag786tech-lang.github.io/digid-fly/)**
 
-> Replace `YOUR-USERNAME` with your actual GitHub username after deployment.
+> Replace `ranag786tech-lang` with your actual GitHub username after deployment.
 
 ---
 
